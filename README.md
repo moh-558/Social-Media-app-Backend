@@ -54,7 +54,7 @@ Must have a good knowledge on how to run javaScript application through command 
 
 <!-- CONTACT -->
 ## Contact
-- Mohammed Abusultan * moham.h.su@gmail.com
+- Mohammed Abusultan  moham.h.su@gmail.com
 
 
 Project Link: [Social-Media-app Backend](https://github.com/moh-558/Social-Media-app-Backend)
