@@ -26,13 +26,14 @@ Social-Media-app-Backend
 
 This Project aims to memic the behavior of real life social media app backend. it is CRUD application, each user
 can create a post or update an old post and delete and like posts. the project contains aotomated test to test the 
-backend take a look at tests.js file.
+backend take a look at test.js file.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ### Built With
 
 * [JavaScript](https://www.javascript.com/)
+* For aotumated test [Chai](https://www.chaijs.com/)
 
 
 <!-- GETTING STARTED -->
